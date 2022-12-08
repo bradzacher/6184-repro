@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "strict": true,
+    "noEmit": true
+  },
+  "files": [
+    "./foo.ts",
+    "./bar.ts",
+    "./.eslintrc.js"
+  ]
+}
